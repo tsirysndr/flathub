@@ -68,8 +68,8 @@
         {
           "type": "git",
           "url": "https://github.com/tsirysndr/rockbox-zig",
-          "tag": "2024.12.19",
-          "commit": "cdd86e9c357012f2a98c0b6d1c8b7e2880140242"
+          "branch": "master",
+          "commit": "5c71e42bd7a32889fa7ca247aa0138d4af665ab2"
         }
       ]
     }
